@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Spreadsheet>
+  <Cell name="A1">
+    <bgcolor>0</bgcolor>
+    <Text>32</Text>
+  </Cell>
+  <Cell name="A2">
+    <bgcolor>-8323073</bgcolor>
+    <Text>42</Text>
+  </Cell>
+  <Cell name="A3">
+    <bgcolor>-8323073</bgcolor>
+    <Text>11</Text>
+  </Cell>
+  <Cell name="A4">
+    <bgcolor>-8323073</bgcolor>
+    <Text>=A1*A2</Text>
+  </Cell>
+  <Cell name="A5">
+    <bgcolor>-8323073</bgcolor>
+    <Text>=A4*2</Text>
+  </Cell>
+  <Cell name="A6">
+    <bgcolor>0</bgcolor>
+    <Text>=A3+2</Text>
+  </Cell>
+  <Cell name="D6">
+    <bgcolor>-16744448</bgcolor>
+    <Text />
+  </Cell>
+  <Cell name="D7">
+    <bgcolor>-16744448</bgcolor>
+    <Text />
+  </Cell>
+  <Cell name="D8">
+    <bgcolor>-16744448</bgcolor>
+    <Text />
+  </Cell>
+  <Cell name="D9">
+    <bgcolor>-16744448</bgcolor>
+    <Text />
+  </Cell>
+  <Cell name="E6">
+    <bgcolor>-16744448</bgcolor>
+    <Text />
+  </Cell>
+  <Cell name="E7">
+    <bgcolor>-16744448</bgcolor>
+    <Text />
+  </Cell>
+  <Cell name="E8">
+    <bgcolor>-16744448</bgcolor>
+    <Text />
+  </Cell>
+  <Cell name="E9">
+    <bgcolor>-16744448</bgcolor>
+    <Text />
+  </Cell>
+</Spreadsheet>

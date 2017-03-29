@@ -1,0 +1,11 @@
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\bin\Debug\Spreadsheet_JDimaculangan.exe.config
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\bin\Debug\Spreadsheet_JDimaculangan.exe
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\bin\Debug\Spreadsheet_JDimaculangan.pdb
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\obj\Debug\Spreadsheet_JDimaculangan.csprojResolveAssemblyReference.cache
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\obj\Debug\Spreadsheet_JDimaculangan.Form1.resources
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\obj\Debug\Spreadsheet_JDimaculangan.Properties.Resources.resources
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\obj\Debug\Spreadsheet_JDimaculangan.csproj.GenerateResource.Cache
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\obj\Debug\Spreadsheet_JDimaculangan.exe
+C:\Users\Jomar\Documents\CptS321\Spreadsheet_JDimaculangan\Spreadsheet_JDimaculangan\obj\Debug\Spreadsheet_JDimaculangan.pdb
